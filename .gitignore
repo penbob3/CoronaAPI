@@ -1,0 +1,5 @@
+node_modules
+coronadb copy.json
+USPop.json
+USProv.json
+.env
